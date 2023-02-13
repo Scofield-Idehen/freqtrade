@@ -20,8 +20,13 @@ Always start by running a trading bot in Dry-run and do not engage money
 before you understand how it works and what profit/loss you should
 expect.
 
-We strongly recommend you to have coding and Python knowledge. Do not
-hesitate to read the source code and understand the mechanism of this bot.
+We strongly recommend you to have coding and Python knowledge.To get started here are some guide to help you understand our bot and how it works:
+
+[Freecodecamp](https://www.youtube.com/results?search_query=freecodecamp+python+full+course)
+[Python Tutorial for beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+
+Do not hesitate to read the source code and understand the mechanism of this bot.
 
 ## Supported Exchange marketplaces
 
@@ -30,7 +35,7 @@ Please read the [exchange specific notes](docs/exchanges.md) to learn about even
 - [X] [Binance](https://www.binance.com/)
 - [X] [Bittrex](https://bittrex.com/)
 - [X] [Gate.io](https://www.gate.io/ref/6266643)
-- [X] [Huobi](http://huobi.com/)
+- [X] [Huobi](http://huobi.com 
 - [X] [Kraken](https://kraken.com/)
 - [X] [OKX](https://okx.com/) (Former OKEX)
 - [ ] [potentially many others](https://github.com/ccxt/ccxt/). _(We cannot guarantee they will work)_
